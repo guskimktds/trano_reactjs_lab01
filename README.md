@@ -29,7 +29,10 @@ Lab 01 : 전화번호부 (이름, 전화번호)
   
   
   git clone https://github.com/guskimktds/trano_reactjs_lab01.git 
-  프로젝트를 로컬에 clone 하고 npm run dev-server 를 실행한 후
+  프로젝트를 로컬에 clone 하고 
+  > 프로젝트 디렉토리로 이동 
+  > 커맨드창에서 npm install 
+  > 커맨드창에서 npm run dev-server 를 실행한 후
   웹브라우저를 띠우고 주소창에 localhost:4000 으로 접속하면 'Hello' 가 표시 되면 정상적인 react 개발환경이 생성된 겁니다.
   
   
